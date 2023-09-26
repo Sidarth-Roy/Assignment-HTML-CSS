@@ -1,0 +1,24 @@
+.hr {
+    background-color: rgb(181, 180, 180);
+    height: 1px;
+    width: 100%;
+    margin-bottom: 8%;
+}
+.r1{
+    display: flex;
+    /* align-items: center; */
+    justify-content:center;
+}
+li>a,li{
+    text-decoration: none;
+    color: #8b9dc0;
+    list-style-type: none;
+    float: left;
+    margin: 0 2px;
+    padding: 0 2px;
+    font-size: 13px;
+}
+
+@media screen and (max-width: 425px) {
+
+  }
